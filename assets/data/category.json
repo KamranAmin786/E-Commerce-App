@@ -1,0 +1,26 @@
+[
+  {
+    "name" : "Helmet",
+    "image" : "icon-helmet"
+  },
+  {
+    "name" : "Jersey",
+    "image" : "icon-jersey"
+  },
+  {
+    "name" : "Gloves",
+    "image" : "icon-gloves"
+  },
+  {
+    "name" : "Shoes",
+    "image" : "icon-shoes"
+  },
+  {
+    "name" : "Trophy",
+    "image" : "icon-trophy"
+  },
+  {
+    "name" : "Stopwatch",
+    "image" : "icon-stopwatch"
+  }
+]

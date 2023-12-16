@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Red helmet",
+    "image": "helmet-no6",
+    "price": 199,
+    "description": "Stand out on the cricket field with our vibrant Red Cricket Helmet. Designed for optimal comfort and protection, this helmet features a hard plastic shell with thick padding, ensuring you stay safe while facing every delivery. The red hue adds a touch of style to your game, making you a standout player on the pitch. Elevate your cricket experience with the confidence that comes from knowing you're equipped with top-tier safety gear. Whether you're a seasoned player or just starting, our Red Cricket Helmet is a must-have for every cricket enthusiast.",
+    "color": [222, 34, 40]
+  },
+  {
+    "name": "Shaded helmet",
+    "image": "helmet-no2",
+    "price": 159,
+    "description": "Keep a cool and composed look with our Shaded Cricket Helmet. The sleek black design exudes confidence while providing top-notch protection on the cricket field. The hard plastic shell, combined with comfortable padding, ensures you can face any bowler with ease and style. Our Shaded Cricket Helmet is not just about safety; it's a fashion statement. With its modern design and robust construction, you'll be turning heads on the field and off. Stay in control of your game and showcase your unique style with our Shaded Cricket Helmet.",
+    "color": [0, 0, 0]
+  },
+  {
+    "name": "Charcoal helmet",
+    "image": "helmet-no3",
+    "price": 189,
+    "description": "Embrace a rugged yet sophisticated look with our Charcoal Cricket Helmet. The deep gray tones add a touch of elegance to your cricket gear. Crafted for performance, this helmet features a sturdy plastic shell, ensuring you stay focused on the game while staying protected. Enhance your on-field presence with our Charcoal Cricket Helmet. Its timeless design and reliable build make it a favorite among cricketers seeking both style and safety. Conquer the cricket pitch with confidence, knowing you have a helmet that matches your commitment to the game.",
+    "color": [42, 55, 75]
+  },
+  {
+    "name": "Blue helmet",
+    "image": "helmet-no7",
+    "price": 89,
+    "description": "Dive into the game with our Blue Cricket Helmet, combining style and safety. The bold blue color adds a dynamic flair to your appearance on the cricket field. With a robust plastic shell and comfortable padding, this helmet is your go-to choice for facing challenging deliveries. Make a statement with our Blue Cricket Helmet. Its striking color not only reflects your personality but also ensures you're easily spotted on the field. Unleash your potential and take your game to new heights with the assurance of our Blue Cricket Helmet.",
+    "color": [27, 59, 95]
+  },
+  {
+    "name": "Purple helmet",
+    "image": "helmet-no8",
+    "price": 364,
+    "description": "Unleash your individuality with our Purple Cricket Helmet. The regal purple hue sets you apart on the cricket pitch, making a bold statement. Designed for ultimate protection, this helmet features a durable plastic shell and plush padding, ensuring your safety during intense matches. Elevate your game with our Purple Cricket Helmet. Its vibrant color and advanced safety features make it a favorite among cricketers of all skill levels. Whether you're a professional or a weekend warrior, our Purple Cricket Helmet is your key to unlocking peak performance.",
+    "color": [102, 103, 170]
+  },
+  {
+    "name": "Royal blue helmet",
+    "image": "helmet-no1",
+    "price": 234,
+    "description": "Command attention with our Royal Blue Cricket Helmet. The striking royal blue color demands notice on the cricket field. Crafted for performance, this helmet boasts a robust plastic shell and comfortable padding, allowing you to focus on your game with confidence and flair. Make a bold impact with our Royal Blue Cricket Helmet. Its eye-catching color and cutting-edge design not only enhance your safety but also showcase your commitment to excellence. Dominate the cricket pitch and turn heads with the commanding presence of our Royal Blue Cricket Helmet.",
+    "color": [0, 110, 244]
+  },
+  {
+    "name": "Pumpkin helmet",
+    "image": "helmet-no5",
+    "price": 279,
+    "description": "Add warmth to your cricket gear with our Pumpkin Cricket Helmet. The rich orange tones bring energy and vibrancy to your appearance on the field. Engineered for safety, this helmet features a sturdy plastic shell and plush padding, ensuring you face every delivery with confidence. Stand out from the crowd with our Pumpkin Cricket Helmet. Its unique color and advanced safety features make it a favorite among cricketers who want to make a statement on and off the field. Unleash your passion for the game with the bold style of our Pumpkin Cricket Helmet.",
+    "color": [244, 113, 23]
+  },
+  {
+    "name": "Black helmet",
+    "image": "helmet-no4",
+    "price": 314,
+    "description": "Embrace classic elegance with our Black Cricket Helmet. The timeless black design exudes sophistication on the cricket pitch. With a durable plastic shell and comfortable padding, this helmet offers a perfect blend of style and safety for cricket enthusiasts. Elevate your cricket experience with our Black Cricket Helmet. Its classic color and reliable construction make it an essential part of any cricketer's gear. Whether you're playing competitively or just for fun, our Black Cricket Helmet ensures you play with confidence and timeless style.",
+    "color": [48, 43, 44]
+  }
+]
